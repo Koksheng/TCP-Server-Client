@@ -1,0 +1,7 @@
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojAssemblyReference.cache
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\kok_sheng\Desktop\Work\Parkway\CR\OTS Dashboard interface with PIMS\Example TCP app\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
